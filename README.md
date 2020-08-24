@@ -1,10 +1,10 @@
 # Adam's manager READMEs
 
 # Disclaimer
-This document **MUST** not be read in any way that applies to any other group, division, team or manager of ${company_X}. You might find that my beliefs and style might not be wholly aligned and sometimes even incompatible with what you see throughout the business and that’s OK! This is a document on me, and it applies to me only.
+This document **MUST** not be read in any way that applies to any other group, division, team or manager of Hearsay. You might find that my beliefs and style might not be wholly aligned and sometimes even incompatible with what you see throughout the business and that’s OK! This is a document on me, and it applies to me only.
 
 # Welcome
-I’m very happy to welcome you. You will work at ${company_X}, where I hope it becomes a place where you’ll grow, have fun and contribute. I’m also hopeful that with your fresh ideas and enthusiasm, the journey gets easier for all of us.
+I’m very happy to welcome you. You will work at Hearsay, where I hope it becomes a place where you’ll grow, have fun and contribute. I’m also hopeful that with your fresh ideas and enthusiasm, the journey gets easier for all of us.
 
 I look forward to working with you. 
 
@@ -46,7 +46,7 @@ If you’re curious about my professional experience, please visit my [LinkedIn 
 
 # My job
 As Software Engineering manager my job is to:
-* Help ${company_X} processes & technology so that we can have a scalable organisation by:
+* Help Hearsay processes & technology so that we can have a scalable organisation by:
   * Attract and retain world-class talent (that's you)
   * Coach teams and enable them to grow
   * Mentor ICs & managers
@@ -55,14 +55,14 @@ As Software Engineering manager my job is to:
 * Get everybody to focus on Product delivery through strong Software Engineering culture and best practices
 * Make tie-breaking decisions
 * Put in place checks & balances
-* Help to develop ${company_X} Engineering brand
-* Set context so that you can connect the dots on what ${company_X} needs, understand what’s your priority & focus and what you need to be successful
+* Help to develop Hearsay Engineering brand
+* Set context so that you can connect the dots on what Hearsay needs, understand what’s your priority & focus and what you need to be successful
 * Help you to build effective relationships with others in the company so you can be as self-sufficient as possible
 * Provide technical advice when required
 
 # How do I manage
 
-* You work for ${company_X} not for me, always optimise for the company
+* You work for Hearsay not for me, always optimise for the company
 * You’re my top priority, so should be every one that reports to you
 * I serve you, not the other way around
 * If I do something that’s impacting my ability to retain you, you would be doing me a huge favour if you let me know ASAP
@@ -197,7 +197,7 @@ Below you'll find my core beliefs.
 
 **I believe** managers are a necessary evil, that exists to scale the organisation.
 
-**I believe** (strongly!) on Conway’s law: “any organisation that designs a system will produce a design whose is a copy of the organisation communication structure”. ${company_X} future partially depends on how well and often we communicate, let’s optimise for it.
+**I believe** (strongly!) on Conway’s law: “any organisation that designs a system will produce a design whose is a copy of the organisation communication structure”. Hearsay future partially depends on how well and often we communicate, let’s optimise for it.
 
 **I believe** QA, Security, Ops, Culture and Product success is everyone responsibility!
 
@@ -227,7 +227,7 @@ I’ll be looking for:
 * Supports career development and discusses performance
 * Has a clear vision/strategy for the team
 * Has key technical skills to help advise the team
-* Can collaborate effectively across ${company_X}
+* Can collaborate effectively across Hearsay
 * Is a strong decision-maker
 * Is a fast-learner and constant seeks to improve one's skill
 * Foster engineering excellence through fostering pragmatic craftsmanship
